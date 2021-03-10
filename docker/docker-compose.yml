@@ -1,5 +1,5 @@
 regex101:
-    image: loopsun/regex101:latest
+    build: .
     container_name: regex101
     restart: always
     ports:

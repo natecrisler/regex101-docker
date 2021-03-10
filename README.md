@@ -1,11 +1,11 @@
 # regex101-docker
 regex101 docker
 
-- 部署
+- Start
 ```
 cd docker && docker-compose up -d 
 ```
-- 访问
+- go-to
 ```
 http://127.0.0.1:9090
 ```
